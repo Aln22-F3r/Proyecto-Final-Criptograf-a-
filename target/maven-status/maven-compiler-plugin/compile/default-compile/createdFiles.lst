@@ -1,0 +1,5 @@
+app\Main.class
+util\Hash.class
+service\Blockchain.class
+model\Block.class
+configuration\ConexionBD.class
